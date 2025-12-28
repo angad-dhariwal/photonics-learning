@@ -8,5 +8,5 @@ Specifically, I use PyMeep, which is a library that allows MEEP to run with fami
 
 I beginned with reviewing Maxwell's equations, getting familiar with them in all forms. I then went through a few tutorials available on the [MEEP documentation](https://meep.readthedocs.io/en/latest/Python_Tutorials/Basics/#).
 
-After working on the straight waveguide and the bent waveguide (viewable [here](./tutorial/media/)
+After working on the straight waveguide and the bent waveguide (viewable [here](/tutorial/media)
 )
