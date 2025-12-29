@@ -13,6 +13,9 @@ Specifically, I use PyMeep, which is a library that allows one to run MEEP with 
 
 ## process
 
-I began with reviewing Maxwell's equations, getting familiar with them in all forms. I then went through a few tutorials available on the [MEEP documentation](https://meep.readthedocs.io/en/latest/Python_Tutorials/Basics/#).
+I began with reviewing Maxwell's equations, getting familiar with them in all forms. I then went through a few tutorials available on the [MEEP documentation](https://meep.readthedocs.io/en/latest/Python_Tutorials/Basics/#). I found some physics concepts a little confusing, so I reviewed them using some YouTube lectures, as well
+Silicon Photonics Design, by Lukas Chrostwoski and Michael Hochberg. The latter textbook is an interesting read and I will likely take time to annotate it and study from it in full.
 
-After working on the straight waveguide and the bent waveguide (viewable [here](/tutorials/), with the mp4 videos [here](/tutorials/media)), I began working on how to quantitatively gather some information about the simulations. In particular, for the bent-waveguide simulation, I want to know how much power makes it around the bend (i.e. transmittance), how much is reflected (reflectance), and how much is radiated away (scattered loss).
+After working on the straight waveguide and the bent waveguide tutorials (viewable [here](/MEEP/tutorials/), with the mp4 videos [here](/MEEP/tutorials/media)), I began working on how to quantitatively gather some information about the simulations. In particular, for the bent-waveguide simulation, I want to know how much power makes it around the bend (i.e. transmittance), how much is reflected (reflectance), and how much is radiated away (scattered loss). After some research and playing around with Meep, I compiled my results [here](/MEEP/projects).
+
+
